@@ -3,7 +3,7 @@
 Role Name
 =========
 
-This role installs the npm on RedHat an Debian systems.
+This role installs the npm on RedHat and Debian systems.
 
 Requirements
 ------------
