@@ -1,0 +1,5 @@
+---
+- name: Install NPM
+  apt:
+    name: npm
+    state: latest
